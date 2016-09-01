@@ -17,6 +17,7 @@ How to run
 ==========
 
 > chmod u+x *.sh
+
 > ./run.sh 2question.nfg
 
 Points to note
